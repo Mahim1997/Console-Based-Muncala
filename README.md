@@ -1,4 +1,4 @@
-# Console-Based-Muncala
+# Console Based Muncala
 A console based game of Muncala using AI minimax with alpha-beta pruning and iterative deepening
   - Used Minimax Algorithm
   - Applied alpha beta pruning
